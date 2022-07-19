@@ -2210,11 +2210,11 @@
         {
          "columns":210,
          "firstgid":55316,
-         "image":"tilesets\/exterior\/Anm_LimZ_Interior.png",
+         "image":"tilesets\/exterior\/Anm_LimZ_Interior2.png",
          "imageheight":23136,
          "imagewidth":6720,
          "margin":0,
-         "name":"Anm_LimZ_Interior",
+         "name":"Anm_LimZ_Interior2",
          "spacing":0,
          "tilecount":151830,
          "tileheight":32,
@@ -2809,7 +2809,7 @@
         {
          "columns":80,
          "firstgid":207146,
-         "image":"..\/workadventure-map-starter-kit\/tilesets\/LimZu\/Anm_Billboard_32x32_1.png",
+         "image":"tilesets\/limzu\/Anm_Billboard_32x32_1.png",
          "imageheight":128,
          "imagewidth":2560,
          "margin":0,
