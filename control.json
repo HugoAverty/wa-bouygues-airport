@@ -2737,20 +2737,6 @@
         }, 
         {
          "columns":16,
-         "firstgid":48704,
-         "image":"tilesets\/limzu\/LimZ_Basement.png",
-         "imageheight":1600,
-         "imagewidth":512,
-         "margin":0,
-         "name":"LimeZu_Interiors_Basement",
-         "spacing":0,
-         "tilecount":800,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":16,
          "firstgid":49504,
          "image":"tilesets\/limzu\/LimZ_Conference_Hall.png",
          "imageheight":384,
