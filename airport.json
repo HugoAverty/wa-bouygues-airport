@@ -2694,11 +2694,11 @@
         {
          "columns":80,
          "firstgid":32320,
-         "image":"tilesets\/limzu\/Anm_LimZ_Exterior.png",
+         "image":"tilesets\/limzu\/Anm_LimZ_Exterior2.png",
          "imageheight":5748,
          "imagewidth":2560,
          "margin":0,
-         "name":"Anm_LimZ_Exterior",
+         "name":"Anm_LimZ_Exterior2",
          "spacing":0,
          "tilecount":14320,
          "tileheight":32,
